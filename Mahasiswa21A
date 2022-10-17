@@ -82,3 +82,4 @@ public class Mahasiswa21A extends Mahasiswa {
         }
         System.out.println("Total Nilai :" + rata);
     }
+}
